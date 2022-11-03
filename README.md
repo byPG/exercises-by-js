@@ -1,3 +1,3 @@
 # exercises-by-js
 
-Ćwiczenia w oparciu o kurs JS.
+Ćwiczenia w oparciu o kursy JS.
